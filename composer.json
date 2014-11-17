@@ -1,0 +1,16 @@
+{
+    "name": "adevreede/apichecker",
+    "require": {
+        "guzzlehttp/guzzle": "4.*",
+        "diff/diff": "1.0.*"
+    },
+    "autoload": {
+        "psr-4": {"ApiChecker\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Arjan de Vreede",
+            "email": "arjan.devreede@infostradasports.com"
+        }
+    ]
+}
